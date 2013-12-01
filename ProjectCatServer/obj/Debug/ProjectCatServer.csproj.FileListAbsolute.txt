@@ -1,0 +1,7 @@
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\bin\Debug\ProjectCatServer.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\obj\Debug\ProjectCatServer.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\bin\Debug\ServerCore.dll
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\bin\Debug\ServerCore.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\obj\Debug\ProjectCatServer.csprojResolveAssemblyReference.cache
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\bin\Debug\ProjectCatServer.exe
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCatServer\obj\Debug\ProjectCatServer.exe

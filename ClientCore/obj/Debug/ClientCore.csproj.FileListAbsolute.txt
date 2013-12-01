@@ -1,0 +1,5 @@
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ClientCore\bin\Debug\ClientCore.dll
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ClientCore\bin\Debug\ClientCore.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ClientCore\obj\Debug\ClientCore.csprojResolveAssemblyReference.cache
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ClientCore\obj\Debug\ClientCore.dll
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ClientCore\obj\Debug\ClientCore.pdb

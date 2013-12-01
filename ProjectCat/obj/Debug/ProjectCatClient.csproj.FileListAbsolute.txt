@@ -1,0 +1,8 @@
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\bin\Debug\ProjectCat.exe.config
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\bin\Debug\ProjectCat.exe
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\bin\Debug\ProjectCat.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\obj\Debug\ProjectCatClient.csprojResolveAssemblyReference.cache
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\obj\Debug\ProjectCat.exe
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\obj\Debug\ProjectCat.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\bin\Debug\ClientCore.dll
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ProjectCat\bin\Debug\ClientCore.pdb

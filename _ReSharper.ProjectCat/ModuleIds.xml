@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="43C91B3E-A840-470D-8829-C6CA9C47AC45" ModuleId="ClientCore" />
+  <Module PersistentId="798AE4DA-9E7D-4C82-909A-B3F5B6A4FE7C" ModuleId="ProjectCatClient" />
+  <Module PersistentId="231677F6-9DE1-4C39-845D-8CFDDBDC55B1" ModuleId="ProjectCatServer" />
+  <Module PersistentId="F7FE6534-A14D-43E1-BEE0-B02A8DF6BF79" ModuleId="ServerCore" />
+  <Module PersistentId="E7E565D0-8026-409D-A63B-E64DFBD2A5DE" ModuleId="AndroidClient" />
+</Modules>

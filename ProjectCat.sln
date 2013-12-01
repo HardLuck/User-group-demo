@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCatClient", "ProjectCat\ProjectCatClient.csproj", "{798AE4DA-9E7D-4C82-909A-B3F5B6A4FE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientCore", "ClientCore\ClientCore.csproj", "{43C91B3E-A840-470D-8829-C6CA9C47AC45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCatServer", "ProjectCatServer\ProjectCatServer.csproj", "{231677F6-9DE1-4C39-845D-8CFDDBDC55B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCore", "ServerCore\ServerCore.csproj", "{F7FE6534-A14D-43E1-BEE0-B02A8DF6BF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidClient", "AndroidClient\AndroidClient.csproj", "{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pentagram.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AndroidClient\\AndroidClient.csproj
+		SccProjectName1 = AndroidClient
+		SccLocalPath1 = AndroidClient
+		SccProjectUniqueName2 = ClientCore\\ClientCore.csproj
+		SccProjectName2 = ClientCore
+		SccLocalPath2 = ClientCore
+		SccProjectUniqueName3 = ProjectCat\\ProjectCatClient.csproj
+		SccProjectName3 = ProjectCat
+		SccLocalPath3 = ProjectCat
+		SccProjectUniqueName4 = ProjectCatServer\\ProjectCatServer.csproj
+		SccProjectName4 = ProjectCatServer
+		SccLocalPath4 = ProjectCatServer
+		SccProjectUniqueName5 = ServerCore\\ServerCore.csproj
+		SccProjectName5 = ServerCore
+		SccLocalPath5 = ServerCore
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798AE4DA-9E7D-4C82-909A-B3F5B6A4FE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798AE4DA-9E7D-4C82-909A-B3F5B6A4FE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798AE4DA-9E7D-4C82-909A-B3F5B6A4FE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798AE4DA-9E7D-4C82-909A-B3F5B6A4FE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C91B3E-A840-470D-8829-C6CA9C47AC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C91B3E-A840-470D-8829-C6CA9C47AC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C91B3E-A840-470D-8829-C6CA9C47AC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C91B3E-A840-470D-8829-C6CA9C47AC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231677F6-9DE1-4C39-845D-8CFDDBDC55B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231677F6-9DE1-4C39-845D-8CFDDBDC55B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231677F6-9DE1-4C39-845D-8CFDDBDC55B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231677F6-9DE1-4C39-845D-8CFDDBDC55B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FE6534-A14D-43E1-BEE0-B02A8DF6BF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FE6534-A14D-43E1-BEE0-B02A8DF6BF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FE6534-A14D-43E1-BEE0-B02A8DF6BF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FE6534-A14D-43E1-BEE0-B02A8DF6BF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E565D0-8026-409D-A63B-E64DFBD2A5DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

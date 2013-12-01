@@ -1,0 +1,5 @@
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ServerCore\bin\Debug\ServerCore.dll
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ServerCore\bin\Debug\ServerCore.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ServerCore\obj\Debug\ServerCore.dll
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ServerCore\obj\Debug\ServerCore.pdb
+c:\users\filatov\documents\visual studio 2012\Projects\ProjectCat\ServerCore\obj\Debug\ServerCore.csprojResolveAssemblyReference.cache
